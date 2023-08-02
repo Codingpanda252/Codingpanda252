@@ -20,4 +20,10 @@ I would like to explore and learn about fields like Web development, Android dev
 - BitBox 3.0 All Freshers
 - Vihaan 6.0 Top 15 Finalist
 - Code Feud Winner
+
+### Open Source Contributions🍴🧑‍💻
+- Social Summer of Code'23
+  -Face-X Facial recognition filters and algorithms (OpenCV, dlib, numpy, mediapie, imageio)
+- Girlscript Summer of Code'23
+  -PetMe Dark theme issue raised (HTML, JS, CSS)
   
