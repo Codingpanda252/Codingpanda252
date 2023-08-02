@@ -16,7 +16,7 @@ I would like to explore and learn about fields like Web development, Android dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
-### Skills🥷
+### Skills 💻:
 - Web Development (MERN Stack)
 - Wonderland Engine (Web XR)
 - Competitive Programming
