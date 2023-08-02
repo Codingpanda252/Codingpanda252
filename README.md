@@ -23,7 +23,8 @@ I would like to explore and learn about fields like Web development, Android dev
 
 ### Open Source Contributions🍴🧑‍💻
 - Social Summer of Code'23
-  -Face-X Facial recognition filters and algorithms (OpenCV, dlib, numpy, mediapie, imageio)
+-- Face-X Facial recognition filters and algorithms (OpenCV, dlib, numpy, mediapie, imageio)
 - Girlscript Summer of Code'23
-  -PetMe Dark theme issue raised (HTML, JS, CSS)
+-- PetMe Dark theme issue raised (HTML, JS, CSS)
   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
