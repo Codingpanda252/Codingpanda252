@@ -1,6 +1,6 @@
 ### About me✨
-Myself Subhasish Panda a Second year CSE Undergrad at Maharaja Agrasen Institute of Technology. As an aspiring computer science engineer I want to make my career journey worth living and aspiring.
-I would like to explore and learn about fields like Web development, Android development, Flutter, Artificial Intelligence and Machine learning. I am looking forward to improving my competitive programming skills, developing projects to solve real world problems and making Open Source contributions.
+- Myself Subhasish Panda a Second year CSE Undergrad at Maharaja Agrasen Institute of Technology. As an aspiring computer science engineer I want to make my career journey worth living and aspiring.
+- I am looking forward to improving my competitive programming skills, developing projects to solve real world problems and making Open Source contributions.
 
 ### Programming Languages👨‍💻
 <div>
