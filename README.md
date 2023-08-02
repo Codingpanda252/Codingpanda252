@@ -23,9 +23,9 @@
 
 ### Achievements🏆
 - Build for Future'23 Hackathon Winner
-- BitBox 3.0 All Freshers
-- Vihaan 6.0 Top 15 Finalist
-- Code Feud Winner
+- BitBox 3.0 Hackathon All Freshers
+- Vihaan 6.0 Hackathon Top 15 Finalist
+- Code Feud'23 Winner
 
 ### My Stats 🔥:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
