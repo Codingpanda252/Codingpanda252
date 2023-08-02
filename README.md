@@ -40,4 +40,4 @@ I would like to explore and learn about fields like Web development, Android dev
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me :
-[![Linktr Badge](https://linktr.ee/subhasishpanda)]
+[![Linktree Badge](https://linktr.ee/subhasishpanda)]
