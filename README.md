@@ -38,6 +38,3 @@ I would like to explore and learn about fields like Web development, Android dev
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect with me :
-[![Linktree Badge](https://linktr.ee/subhasishpanda)]
