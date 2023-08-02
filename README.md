@@ -18,7 +18,8 @@
 
 ### Skills 💻:
 - Web Development (MERN Stack)
-- Wonderland Engine (Web XR)
+- Web XR
+- Wonderland Engine
 - Open Source
 - Competitive Programming
 
