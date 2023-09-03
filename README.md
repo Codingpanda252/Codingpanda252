@@ -17,7 +17,7 @@
 </div>
 
 ### Skills 💻:
-- Web Development (MERN Stack)
+- Web Development
 - Web XR
 - Wonderland Engine
 - Open Source
