@@ -20,6 +20,8 @@
 - Web Development
 - Web XR
 - Wonderland Engine
+- Unreal Engine
+- OpenCV
 - Open Source
 - Competitive Programming
 
