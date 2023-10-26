@@ -1,5 +1,5 @@
 ### About me✨
-- Myself Subhasish Panda a Second year CSE Undergrad at Maharaja Agrasen Institute of Technology. As an aspiring computer science engineer I want to make my career journey worth living and aspiring.
+- A CSE Sophomore at Maharaja Agrasen Institute of Technology, Delhi. As an aspiring computer science engineer I want to make my career journey worth living and aspiring.
 - I am looking forward to improving my competitive programming skills, developing projects to solve real world problems and making Open Source contributions.
 
 ### Programming Languages👨‍💻
@@ -25,11 +25,12 @@
 
 ### Achievements🏆
 - Build for Future'23 Hackathon Winner
+- EmpowHer'23 Hackathon Winner
+- Code4Cause'23 Hackathon Winner
 - BitBox 3.0 Hackathon All Freshers
 - Vihaan 6.0 Hackathon Top 15 Finalist
-- Code Feud'23 Winner
 
 ### My Stats 🔥:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
+![Subhasish Panda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=blueberry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
