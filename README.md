@@ -31,6 +31,6 @@
 - Vihaan 6.0 Hackathon Top 15 Finalist
 
 ### My Stats 🔥:
-[![Subhasish Panda's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=github-dark&background=000000)](https://git.io/streak-stats)
+[![Subhasish Panda's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
