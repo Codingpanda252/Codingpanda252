@@ -21,22 +21,22 @@
 ### Skills 💻:
 - Web Development(MERN Stack, MySQL, Roslib.js, Rosbridge, Websocket, WebGL)
 - Web XR(Web AR, Web VR)
-- Unity Engine
-- Unreal Engine
+- Unity Engine(C#, 3D Development)
+- Unreal Engine(C++, 3D Development)
 - Computer Vision, Numpy, OpenCV, Mediapie, Imageio, Image processing
-- Robot Operating System(ROS), ROS Simulation, Gazebo, Moveit, Rviz
+- Linux/Unix, Robot Operating System(ROS), ROS Simulation, Gazebo, Moveit, Rviz
 - Open Source
 - Competitive Programming
 
 ### Achievements🏆
 - Build for Future'23 Hackathon Winner
 - EmpowHer'23 Hackathon Winner
-- HackwithMAIT 4.o Winner
+- HackwithMAIT 4.0 Winner
 - Code4Cause'23 Hackathon Winner
 - BitBox 3.0 Hackathon All Freshers
 - Vihaan 6.0 Hackathon Top 15 Finalist
 - Top Open Source Contributor in SSOC'23
-
+  
 ### My Stats 🔥:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
 
