@@ -29,6 +29,7 @@
 - Competitive Programming
 
 ### Achievements🏆
+- NRL Green Energy'23 Hackathon National Finalist
 - Build for Future'23 Hackathon Winner
 - EmpowHer'23 Hackathon Winner
 - HackwithMAIT 4.0 Winner
