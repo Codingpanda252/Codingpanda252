@@ -106,3 +106,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)]
+
+### <b> Socials </b>
+https://linktr.ee/subhasishpanda
+
