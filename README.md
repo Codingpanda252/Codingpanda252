@@ -87,14 +87,18 @@
 - Open Source
 - Competitive Programming
 
-### Achievements🏆
+## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements🏆</b>
 - NRL Green Energy'23 Hackathon National Finalist
+- National Finalist & reached the top 5 percentile @ Adobe Gensolve
 - Build for Future'23 Hackathon Winner
 - EmpowHer'23 Hackathon Winner
+- Innovation Mela'24 Winner
+- CodeCrunchML Hackathon Winner
 - HackwithMAIT 4.0 Winner
+- Hacknovate 1.0 Winner
 - Code4Cause'23 Hackathon Winner
+- Code Feud'23 Winner
 - BitBox 3.0 Hackathon All Freshers
-- Vihaan 6.0 Hackathon Top 15 Finalist
 - Top Open Source Contributor in SSOC'23
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
