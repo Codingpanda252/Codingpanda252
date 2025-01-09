@@ -103,4 +103,4 @@
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 ![Codingpanda252's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codingpanda252&theme=vue-dark&hide_border=true) <br>
-[![Codingpanda252's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Codingpanda252's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)]
