@@ -97,7 +97,7 @@
 - Vihaan 6.0 Hackathon Top 15 Finalist
 - Top Open Source Contributor in SSOC'23
   
-### My Stats 🔥:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Codingpanda252&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
