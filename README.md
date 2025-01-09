@@ -102,7 +102,7 @@
 - Top Open Source Contributor in SSOC'23
   
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Codingpanda252&theme=vvision-friendly-dark&show_icons=true&hide_border=true&count_private=true) <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Codingpanda252&theme=highcontrast)](https://git.io/streak-stats)<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=vision-friendly-dark)]
