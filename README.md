@@ -4,9 +4,9 @@
 - A CSE Sophomore at Maharaja Agrasen Institute of Technology, Delhi. I am all about Tech and Innovation life.
 - I am looking forward to improving my competitive programming skills, developing projects to solve real world problems and making Open Source contributions.
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=4000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Aman" align="middle" alt="Hey, I'm Subhasish Welcome to my Profile! animated typed out"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=4000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Subhasish" align="middle" alt="Hey, I'm Subhasish Welcome to my Profile! animated typed out"> </h1>
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Aman Welcome to my Profile! animated typed out"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Subhasish Welcome to my Profile! animated typed out"> </h1>
 
 
 
