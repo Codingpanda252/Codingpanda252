@@ -2,7 +2,7 @@
 
 ## 👋 Hey there, I’m Subhasish Panda
 
-## 🚀 Developer | Innovator | 12x Hackathon | Hackathon Mentor | Metaverse & Web3 Enthusiast
+### 🚀 Developer | Innovator | 12x Hackathon | Hackathon Mentor | Metaverse & Web3 Enthusiast
 
 I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of Technology, Delhi who thrives on turning cutting-edge ideas into real-world impact. Whether it's building immersive **XR experiences**, crafting AI-driven solutions, or redefining shopping with **AR/VR try-ons**, I'm constantly pushing boundaries in tech.
 
