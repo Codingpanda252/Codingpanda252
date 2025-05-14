@@ -88,8 +88,8 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
 ### Experience 💼:
-- Data Scientist, Department of Science of Technology, GOI 🇮🇳
 - Digital Earths KM-scale, World Climate Research Programme, Tokyo Node 🇯🇵
+- Data Scientist, Department of Science of Technology, GOI 🇮🇳
 - Co-Founder, B.Y.T.E(Brains Yeilding Technical Endeavors)
 - Co-Founder & Lead, Code Ignite
 - Graphics Head, Entrepreneurship Development Cell, MAIT
