@@ -87,7 +87,7 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=flat&logo=cpanel&logoColor=white)
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
-### Experience 👨🏻‍💻:
+### Experience 💼:
 - Data Scientist, Department of Science of Technology, GOI
 - Co-Founder, B.Y.T.E(Brains Yeilding Technical Endeavors)
 - Co-Founder & Lead, Code Ignite
@@ -108,7 +108,7 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 - Competitive Programming
 
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements🏆</b>
-- The World Climate Research Programme Digital Earths Global KM-scale Hackathon, Tokyo Node 🇯🇵
+- WCRP Digital Earths Global KM-scale Hackathon, Tokyo Node 🇯🇵
 - NRL Green Energy'23 Hackathon National Finalist
 - National Finalist & reached the top 5 percentile @ Adobe Gensolve
 - Build for Future'23 Hackathon Winner
