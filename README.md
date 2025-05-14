@@ -1,8 +1,8 @@
 <img width="1834" alt="Make your README" src="https://github.com/Codingpanda252/Codingpanda252/assets/129882142/39ad5b93-8f97-456f-8ca6-f58c87ca5266">
 
-## 👋 Hey there, I’m Subhasish Panda
+## 👋 Hey there, I’m Subhasish Panda 🇮🇳
 
-### 🚀 Developer | Innovator | 12x Hackathon | Hackathon Mentor | Metaverse & Web3 Enthusiast
+### 🚀 Developer | Innovator | 12x Hackathon Winner | Hackathon Mentor | Metaverse & Web3 Enthusiast
 
 I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of Technology, Delhi who thrives on turning cutting-edge ideas into real-world impact. Whether it's building immersive **XR experiences**, crafting AI-driven solutions, or redefining shopping with **AR/VR try-ons**, I'm constantly pushing boundaries in tech.
 
@@ -88,7 +88,8 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
 ### Experience 💼:
-- Data Scientist, Department of Science of Technology, GOI
+- Data Scientist, Department of Science of Technology, GOI 🇮🇳
+- Digital Earths KM-scale, World Climate Research Programme, Tokyo Node 🇯🇵
 - Co-Founder, B.Y.T.E(Brains Yeilding Technical Endeavors)
 - Co-Founder & Lead, Code Ignite
 - Graphics Head, Entrepreneurship Development Cell, MAIT
