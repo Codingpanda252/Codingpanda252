@@ -9,7 +9,7 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 ### 💡 What I Do
 
 * 🔭 **Metaverse & Web3**: Building futuristic solutions that merge tech, creativity, and meaningful change.
-* 🧠 **AI/ML Projects**: Finalist in **Adobe GenSolve**, top 5 percentile. Hands-on with AI solutions for customer support, virtual assistants, and smart manufacturing.
+* 🧠 **AI/ML Projects**: Secured top 5 percentile, **Adobe GenSolve**. Hands-on with AI solutions for customer support, virtual assistants, and smart manufacturing.
 * 🛠️ **Full-Stack Development**: Skilled in React, React Native, Node.js, Django, TypeScript, Tailwind, PostgreSQL, MongoDB, and more.
 * 🕹️ **Game & XR Dev**: Creator of **EduNEX XR**, **GlimmrXR**, and **MAITAVERSE** — immersive XR platforms for education, shopping, and events(Virtual Hackathons, Collaborations, Summits, and Workshops).
 * 🌊 **Sustainable Innovation**: Worked an MHD thruster for marine transport propulsion, reducing harm to underwater ecosystems and clean energy.
