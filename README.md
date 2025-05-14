@@ -77,6 +77,16 @@
 ![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=flat&logo=cpanel&logoColor=white)
 ![aaPanel](https://img.shields.io/badge/aaPanel-%231E90FF.svg?style=flat&logo=aaPanel&logoColor=white)
 
+### Experience 👨🏻‍💻:
+- Data Scientist, Department of Science of Technology, GOI
+- Co-Founder, B.Y.T.E(Brains Yeilding Technical Endeavors)
+- Co-Founder & Lead, Code Ignite
+- Graphics Head, Entrepreneurship Development Cell, MAIT
+- Technical Volunteer, AWS Cloud Club
+- Student Coordinator, TechCom, MAIT
+- Technical Team, A.T.O.M Robotics
+
+
 ### Skills 💻:
 - Web Development(MERN Stack, MySQL, Roslib.js, Rosbridge, Websocket, WebGL)
 - Web XR(Web AR, Web VR)
@@ -97,6 +107,7 @@
 - HackwithMAIT 4.0 Winner
 - Hacknovate 1.0 Winner
 - Code4Cause'23 Hackathon Winner
+- Pith Your Idea 2.0 Runner Up
 - Code Feud'23 Winner
 - BitBox 3.0 Hackathon All Freshers
 - Top Open Source Contributor in SSOC'23
