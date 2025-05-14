@@ -1,8 +1,18 @@
 <img width="1834" alt="Make your README" src="https://github.com/Codingpanda252/Codingpanda252/assets/129882142/39ad5b93-8f97-456f-8ca6-f58c87ca5266">
 
-### About me✨
-- A CSE Undergrad at Maharaja Agrasen Institute of Technology, Delhi. I am all about Tech and Innovation life.
-- I am looking forward to improving my competitive programming skills, developing projects to solve real world problems and making Open Source contributions.
+## 👋 Hey there, I’m Subhasish Panda
+
+## 🚀 Developer | Innovator | Hackathon Champion | Metaverse & Web3 Enthusiast
+
+I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of Technology, Delhi who thrives on turning cutting-edge ideas into real-world impact. Whether it's building immersive **XR experiences**, crafting AI-driven solutions, or redefining shopping with **AR/VR try-ons**, I'm constantly pushing boundaries in tech.
+
+### 💡 What I Do
+
+* 🔭 **Metaverse & Web3**: Building futuristic solutions that merge tech, creativity, and meaningful change.
+* 🧠 **AI/ML Projects**: Finalist in **Adobe GenSolve**, top 5 percentile. Hands-on with AI solutions for customer support, virtual assistants, and smart manufacturing.
+* 🛠️ **Full-Stack Development**: Skilled in React, React Native, Node.js, Django, TypeScript, Tailwind, PostgreSQL, MongoDB, and more.
+* 🕹️ **Game & XR Dev**: Creator of **EduNEX XR**, **GlimmrXR**, and **MAITAVERSE** — immersive XR platforms for education, shopping, and events(Virtual Hackathons, Collaborations, Summits, and Workshops).
+* 🌊 **Sustainable Innovation**: Worked an MHD thruster for marine transport propulsion, reducing harm to underwater ecosystems and clean energy.
 
 
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=4800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Github+Profile!" align="middle" alt="Welcome to my Profile! animated typed out"> </h1>
