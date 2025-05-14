@@ -108,6 +108,7 @@ I'm a passionate **Computer Science undergrad** at Maharaja Agrasen Institute of
 - Competitive Programming
 
 ## <img src="https://media.giphy.com/media/IX96Ceg5hiMNBn7Ls7/giphy.gif" width="35"><b>Some Achievements🏆</b>
+- The World Climate Research Programme Digital Earths Global KM-scale Hackathon, Tokyo Node 🇯🇵
 - NRL Green Energy'23 Hackathon National Finalist
 - National Finalist & reached the top 5 percentile @ Adobe Gensolve
 - Build for Future'23 Hackathon Winner
