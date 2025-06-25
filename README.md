@@ -186,6 +186,4 @@
 ---
 
 
-Let me know if you'd like it styled with borders, centered section titles, or integrated into the full interactive README layout you're building.
-
 <p align="center"><b>Let's connect and build something impactful!</b></p>
