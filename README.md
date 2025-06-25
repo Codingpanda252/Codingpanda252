@@ -44,81 +44,59 @@
 
 ### 🏆 Achievements
 
-| 🥇 Hackathons & Competitions | 🏁 Highlights |
-|-----------------------------|--------------|
-| **Build For Future ’23 – DTU** | 1st Prize – Sustainable AR commerce platform |
-| **EmpowHer ’23 – IIIT Delhi** | 1st Prize – XR mental wellness solution |
-| **HackwithMAIT 4.0 – MAIT** | 1st Prize – MAITAVERSE (870+ participants) |
-| **Hacknovate – MAIT** | 1st Prize – MHD Marine Propulsion |
-| **Code4Cause Hackathon – MSIT** | 1st Prize – AI-powered DevTool MVP |
-| **CodeCrunch ML’23 – DTU** | 2nd Runner-up – ML Industry Use-case |
-| **BitBox 3.0 – JIIT** | Freshers Track – Top Position |
-| **Adobe GenSolve** | Finalist – Top 5% Nationwide |
-| **IITD-AIA Foundation** | Shortlisted – AI/ML Internship for Smart Manufacturing |
-| **Ministry of External Affairs Internship** | Applied – Counter-Terrorism/EG/ERS/IT Divisions |
+- 🥇 Winner – **Build For Future’23 Hackathon**, DTU  
+- 🥇 Winner – **EmpowHer’23 Hackathon**, IIIT Delhi  
+- 🥇 Winner – **HackwithMAIT 4.0**, MAIT  
+- 🥇 Winner – **Innovation Mela**, MAIT  
+- 🥇 Winner – **Hacknovate Hackathon**, MAIT  
+- 🥇 Winner – **Code4Cause’23**, MSIT  
+- 🥇 Winner – **Code Feud**, TnM 2023  
+- 🥈 2nd Runner-up – **CodeCrunch ML’23**, DTU  
+- 🏅 Finalist – **NRL National Hackathon**, T-Hub Hyderabad  
+- 🏅 Finalist – **Vihaan 6.0**, DTU  
+- 🏅 All Freshers Track – **BitBox 3.0**, JIIT Noida  
+- 🏆 Winner – **Startup & Entrepreneurship Synergy Summit**, GNA University  
+- 🧠 Research Fellow – **WCRP Global Hackathon**, AORI, University of Tokyo  
+- 🔝 Top 5% – **Adobe GenSolve** Nationwide Challenge  
 
 ---
 
-### 🧠 Skills & Tech Stack
+### 💼 Experience
 
-#### 🖥️ Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34A86?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+**📊 Data & Strategy Unit – Department of Science & Technology, GOI**  
+*Intern | Jan 2025 – Present*  
+- Built real-time DSU Dashboard for strategic data insights  
+- Automated workflows & reporting, reduced manual overhead by 40%
 
-#### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**🧪 BYTE – Brains Yielding Technical Endeavours**  
+*Co-Founder*  
+- Mentored 65+ members in AI, Web3, Dev, and Cybersecurity  
+- Led 3 successful tech deployments, pushing innovation & collaboration
 
----
+**🧠 Code Ignite – MAIT**  
+*Co-Founder*  
+- Built a 350+ member coding community  
+- Organized 30-Day Microsoft Coding Challenge at MS Office, Noida
 
-### 🔥 Featured Projects
-
-#### 🎓 EduNEX XR  
-> Metaverse for immersive education  
-> AI + XR | Multiplayer | Virtual Classrooms | Virtual Human  
-[![EduNEX](https://img.shields.io/badge/View_Project-EduNEX_XR-000000?style=flat&logo=github&logoColor=white)](https://github.com/Codingpanda252/EduNEX-XR)
+**💡 Innovation & Incubation Cell – MAIT**  
+*Coordinator & Creative Head*  
+- Mentored 30+ students on real-world dev and strategic planning  
+- Oversaw creative design & planning for tech initiatives
 
 ---
 
-#### 🛍️ GlimmrXR  
-> AR virtual try-ons for e-commerce  
-> Real-time AR overlays | Cross-platform | XR Integration  
-[![GlimmrXR](https://img.shields.io/badge/View_Project-GlimmrXR-000000?style=flat&logo=github&logoColor=white)](https://github.com/Codingpanda252/GlimmrXR)
+### 🚀 Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎓 **EduNEX XR** | Metaverse for immersive education using XR, AI, multiplayer systems |
+| 🛍️ **GlimmrXR** | AR Virtual Try-ons for retail & e-commerce experience |
+| 🌐 **MAITAVERSE** | XR campus for virtual hackathons, events, and collaboration |
+| 🌊 **MHD Thruster** | Silent marine propulsion to protect aquatic life using clean tech |
+| 🤖 **SereneHub AI** | Mood-aware AI companion using OpenCV, MetaHuman, Spotify API |
+| 🌾 **AgriBot** | Smart farming assistant with weather, pest prediction, and NLP |
+| 💼 **Kickstart.tech** | Launchpad for startup ideas, automation, and MVP development |
 
 ---
 
-#### 🌐 MAITAVERSE  
-> XR platform for virtual hackathons, summits, workshops  
-> 3D Avatars | Voice & Video | MAIT Campus in XR  
-[![MAITAVERSE](https://img.shields.io/badge/View_Project-MAITAVERSE-000000?style=flat&logo=github&logoColor=white)](https://github.com/Codingpanda252/MAITAVERSE)
-
----
-
-#### 🌊 MHD Thruster  
-> Magnetohydrodynamic propulsion for silent marine travel  
-> Eco-friendly | Whale-safe | Hacknovate Winner  
-[![MHD](https://img.shields.io/badge/View_Project-MHD_Thruster-000000?style=flat&logo=github&logoColor=white)](https://github.com/Codingpanda252/MHD-Propulsion)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Codingpanda252&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<h3 align="center">Let's build the future together 🚀</h3>
+<p align="center"><b>Let's connect and build something impactful!</b></p>
