@@ -114,6 +114,8 @@
 
 ### 🏆 Achievements
 
+- 🇯🇵 Research Fellow – **WCRP Global Hackathon**, AORI, University of Tokyo
+- 🏅 Finalist – **NRL National Hackathon**, T-Hub Hyderabad    
 - 🥇 Winner – **Build For Future’23 Hackathon**, DTU  
 - 🥇 Winner – **EmpowHer’23 Hackathon**, IIIT Delhi  
 - 🥇 Winner – **HackwithMAIT 4.0**, MAIT  
@@ -122,11 +124,9 @@
 - 🥇 Winner – **Code4Cause’23**, MSIT  
 - 🥇 Winner – **Code Feud**, TnM 2023  
 - 🥈 2nd Runner-up – **CodeCrunch ML’23**, DTU  
-- 🏅 Finalist – **NRL National Hackathon**, T-Hub Hyderabad  
 - 🏅 Finalist – **Vihaan 6.0**, DTU  
 - 🏅 All Freshers Track – **BitBox 3.0**, JIIT Noida  
 - 🏆 Winner – **Startup & Entrepreneurship Synergy Summit**, GNA University  
-- 🧠 Research Fellow – **WCRP Global Hackathon**, AORI, University of Tokyo  
 - 🔝 Top 5% – **Adobe GenSolve** Nationwide Challenge  
 
 ---
@@ -165,7 +165,6 @@
 | 🌊 **MHD Thruster** | Silent marine propulsion to protect aquatic life using clean tech |
 | 🤖 **SereneHub AI** | Mood-aware AI companion using OpenCV, MetaHuman, Spotify API |
 | 🌾 **AgriBot** | Smart farming assistant with weather, pest prediction, and NLP |
-| 💼 **Kickstart.tech** | Launchpad for startup ideas, automation, and MVP development |
 
 ---
 
