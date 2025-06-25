@@ -104,14 +104,6 @@
   <img src="https://img.shields.io/badge/cPanel-E77500?style=flat&logo=cpanel&logoColor=white" />
 </p>
 
-### 🚀 What I Work On
-
-- 🔭 **Metaverse & Web3** – Future-forward platforms blending creativity and impact  
-- 🤖 **AI/ML** – Adobe GenSolve Finalist (Top 5%), smart assistants, automation  
-- 🌐 **Full-Stack** – React, TypeScript, Node.js, Django, PostgreSQL, MongoDB  
-- 🧠 **XR/Game Dev** – Creator of **EduNEX XR**, **GlimmrXR**, and **MAITAVERSE**  
-- 🌊 **Sustainability** – Developed a silent MHD marine thruster for ocean-safe travel  
-
 ---
 
 <h1 align="center">
