@@ -148,8 +148,8 @@
 - Built a 350+ member coding community  
 - Organized 30-Day Microsoft Coding Challenge at MS Office, Noida
 
-**💡 Innovation & Incubation Cell – MAIT**  
-*Coordinator & Creative Head*  
+**💡 Innovation & Incubation Cell, EDC – MAIT**  
+*Head of Creative Department*  
 - Mentored 30+ students on real-world dev and strategic planning  
 - Oversaw creative design & planning for tech initiatives
 
