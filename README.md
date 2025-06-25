@@ -168,4 +168,24 @@
 
 ---
 
+### 📊 **GitHub Stats & Contributions**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codingpanda252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Codingpanda252&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+
+Let me know if you'd like it styled with borders, centered section titles, or integrated into the full interactive README layout you're building.
+
 <p align="center"><b>Let's connect and build something impactful!</b></p>
