@@ -33,6 +33,37 @@ I'm not just a developer — I'm a **digital architect** shaping the future of h
 
 ---
 
+## 🏆 Achievements
+
+🌏 **International Contributor** – [WCRP Global Hackathon](https://dpo.aori.u-tokyo.ac.jp/dmmg/ICCP-GSRA/Global-Hackathon_Tokyo.htm) 🇯🇵 Tokyo, Japan  
+Contributed to global climate-tech innovation with top researchers and developers around the world.
+
+---
+
+🚀 **12x Hackathon Winner | XR, Web3, AI/ML, and CleanTech Innovator**
+
+- 🥇 **1st Place** – Build For Future’23 Hackathon, DTU  
+- 🥇 **1st Place** – EmpowHer’23 Hackathon, IIIT Delhi  
+- 🥇 **1st Place** – HackwithMAIT 4.0, MAIT  
+  - Led the winning team of over 870+ participants with the groundbreaking *MAITAVERSE* project  
+- 🥇 **1st Place** – Hacknovate Hackathon, MAIT  
+- 🥇 **1st Place** – Code4Cause’23 Hackathon, MSIT  
+- 🥈 **2nd Runner-Up** – CodeCrunch ML’23 Hackathon, DTU  
+- 🏅 **Top 8 Finalist** – NRL Clean Energy Hackathon, T-Hub, Hyderabad  
+- 🧠 **Finalist** – Adobe GenSolve Challenge (Top 5%)  
+- 🎖️ **All Freshers Position** – BitBox 3.0 Hackathon, JIIT  
+
+---
+
+🌟 **Leadership Roles**
+
+- 👨‍💻 **Founding Member & Core Lead** – B.Y.T.E (Brains Yielding Technical Endeavours)
+- 🔥 **Co-Founder & Lead** – Code Ignite     
+- 🎨 **Head of Creative Department** – EDC MAIT  
+
+📌 *Passionate about building solutions that bridge imagination and impact — in the metaverse, on Earth, and beyond.*
+
+
 ## 🔥 **CURRENT OBSESSIONS**
 
 <div align="center">
