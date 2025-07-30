@@ -137,6 +137,7 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 ### **🎯 HACKATHON DOMINATION** 
 ```
 🥇 12x Hackathon Winner
+🇯🇵 WCRP Global Hackathon,Tokyo - International Contributor
 🚀 Projects that actually ship
 💡 Ideas that solve real problems
 🏆 Recognition from industry leaders
