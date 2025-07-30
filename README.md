@@ -26,6 +26,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/207/207770.gif" alt="Cool GIF" />
+</p>
+
+
+
 ### 🧠 **Tech Stack & Tools**
 
 #### 💻 **Languages**
