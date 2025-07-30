@@ -46,8 +46,10 @@ Contributed to global climate-tech innovation with top researchers and developer
 - 🥇 **1st Place** – EmpowHer’23 Hackathon, IIIT Delhi  
 - 🥇 **1st Place** – HackwithMAIT 4.0, MAIT  
 - 🥇 **1st Place** – Hacknovate Hackathon, MAIT  
-- 🥇 **1st Place** – Code4Cause’23 Hackathon, MSIT  
-- 🥈 **2nd Runner-Up** – CodeCrunch ML’23 Hackathon, DTU  
+- 🥇 **1st Place** – Code4Cause’23 Hackathon, MSIT
+- 🥇 **1st Place** – Codefeud 2023, MAIT  
+- 🥉 **2nd Runner-Up** – CodeCrunch ML’23 Hackathon, DTU
+- 🥉 **2nd Runner-Up** - Startup & Entrepreneurship Synergy Summit 2024, GNA, Punjab
 - 🏅 **Top 8 Finalist** – NRL Clean Energy Hackathon, T-Hub, Hyderabad  
 - 🧠 **Finalist** – Adobe GenSolve Challenge (Top 5%)  
 - 🎖️ **All Freshers Position** – BitBox 3.0 Hackathon, JIIT  
