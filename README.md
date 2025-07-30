@@ -45,7 +45,6 @@ Contributed to global climate-tech innovation with top researchers and developer
 - 🥇 **1st Place** – Build For Future’23 Hackathon, DTU  
 - 🥇 **1st Place** – EmpowHer’23 Hackathon, IIIT Delhi  
 - 🥇 **1st Place** – HackwithMAIT 4.0, MAIT  
-  - Led the winning team of over 870+ participants with the groundbreaking *MAITAVERSE* project  
 - 🥇 **1st Place** – Hacknovate Hackathon, MAIT  
 - 🥇 **1st Place** – Code4Cause’23 Hackathon, MSIT  
 - 🥈 **2nd Runner-Up** – CodeCrunch ML’23 Hackathon, DTU  
