@@ -1,201 +1,245 @@
-<h1 align="center">👋 Hi, I'm Subhasish Panda 🇮🇳</h1>
-<h3 align="center">🚀 Developer | 12x Hackathon Winner | XR & Web3 Enthusiast | CSE Undergrad @ MAIT</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://subhasishpanda.site" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/subhasishpanda25" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Codingpanda252" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:subhasishpanda25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+# 🚀 SUBHASISH PANDA
+### *Where Innovation Meets Reality*
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=12x+Hackathon+Winner+%F0%9F%8F%86;XR+%26+Web3+Pioneer+%F0%9F%8C%90;Full-Stack+Architect+%E2%9A%A1;AI%2FML+Innovator+%F0%9F%A4%96;Building+the+Metaverse+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
 
-### 💡 About Me
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/222/222102.gif" alt="Cool GIF" />
-</p>
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2D3748)](https://subhasishpanda.site)
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D3748)](https://linkedin.com/in/subhasishpanda25)
+[![GitHub](https://img.shields.io/badge/⚡_GITHUB-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748)](https://github.com/Codingpanda252)
+[![Email](https://img.shields.io/badge/📧_CONTACT-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3748)](mailto:subhasishpanda25@gmail.com)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CSE%20@%20MAIT%20🇮🇳&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-🎯 A passionate **CS undergrad at MAIT, Delhi**, constantly building real-world impact with innovation in  
-🔸 **XR, Metaverse, AI/ML, Web3, and Full-Stack Development**  
-🛠️ From redefining shopping with **AR/VR try-ons** to pushing clean tech with **MHD thrusters** — I build what excites me.
+</div>
 
 ---
 
+## 🎯 **THE VISION**
 
-### 🧠 **Tech Stack & Tools**
+> *"Building tomorrow's digital experiences today — one line of code at a time."*
 
-#### 💻 **Languages**
+I'm not just a developer; I'm a **digital architect** crafting the future of human-computer interaction. From **AR/VR shopping experiences** that blur the line between digital and physical, to **clean tech innovations** like MHD thrusters that could revolutionize space travel — I turn impossible ideas into working reality.
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-E34A86?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-</p>
-
-#### ⚙️ **Frameworks & Libraries**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat&logo=chakra-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-</p>
-
-#### 🧠 **AI/ML & Data**
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mediapipe-FFCC00?style=flat&logo=google&logoColor=black" />
-</p>
-
-#### 🧩 **Game Dev / XR / Design**
-
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
-
-#### 🛢️ **Databases & Hosting**
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
-
-#### 🔗 **Web3 & Blockchain**
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethers.js-1C1E24?style=flat&logo=ethereum&logoColor=white" />
-</p>
-
-#### 🛠️ **Tools & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-E77500?style=flat&logo=cpanel&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=00FFFF&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+GitHub+Profile!" />
-</h1>
+## 🔥 **CURRENT OBSESSIONS**
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🕶️ **EXTENDED REALITY**
+*Redefining how humans interact with digital worlds*
+- **AR Try-On Systems** for e-commerce
+- **VR Training Simulations** for enterprises  
+- **Mixed Reality** collaboration tools
+- **WebXR** experiences that run everywhere
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 **WEB3 & METAVERSE**
+*Building the decentralized internet of tomorrow*
+- **Smart Contract** architecture
+- **NFT Marketplaces** with utility
+- **DeFi Protocols** for real-world assets
+- **Metaverse Infrastructure** development
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 **AI/ML INNOVATION**
+*Teaching machines to think and create*
+- **Computer Vision** for AR applications
+- **NLP Models** for conversational AI
+- **Generative AI** for content creation
+- **Edge AI** deployment optimization
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 **CLEAN TECH**
+*Engineering solutions for a sustainable future*
+- **MHD Thruster** propulsion systems
+- **IoT-based** environmental monitoring
+- **Energy-efficient** computing solutions
+- **Green blockchain** implementations
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Achievements
+## 💻 **ARSENAL OF DESTRUCTION**
 
-- 🇯🇵 Research Fellow – **WCRP Global Hackathon**, AORI, University of Tokyo
-- 🏅 Finalist – **NRL National Hackathon**, T-Hub Hyderabad    
-- 🥇 Winner – **Build For Future’23 Hackathon**, DTU  
-- 🥇 Winner – **EmpowHer’23 Hackathon**, IIIT Delhi  
-- 🥇 Winner – **HackwithMAIT 4.0**, MAIT  
-- 🥇 Winner – **Innovation Mela**, MAIT  
-- 🥇 Winner – **Hacknovate Hackathon**, MAIT  
-- 🥇 Winner – **Code4Cause’23**, MSIT  
-- 🥇 Winner – **Code Feud**, TnM 2023  
-- 🥈 2nd Runner-up – **CodeCrunch ML’23**, DTU  
-- 🏅 Finalist – **Vihaan 6.0**, DTU  
-- 🏅 All Freshers Track – **BitBox 3.0**, JIIT Noida  
-- 🏆 Winner – **Startup & Entrepreneurship Synergy Summit**, GNA University  
-- 🔝 Top 5% – **Adobe GenSolve** Nationwide Challenge  
+<div align="center">
 
----
+### **LANGUAGES** 
+*The building blocks of digital creation*
 
-### 💼 Experience
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,solidity&theme=dark" />
 
-**📊 Data & Strategy Unit – Department of Science & Technology, GOI**  
-*Intern | Jan 2025 – Present*  
-- Built real-time DSU Dashboard for strategic data insights  
-- Automated workflows & reporting, reduced manual overhead by 40%
+### **FRAMEWORKS & LIBRARIES**
+*Weapons of mass construction*
 
-**🧪 BYTE – Brains Yielding Technical Endeavours**  
-*Co-Founder*  
-- Mentored 65+ members in AI, Web3, Dev, and Cybersecurity  
-- Led 3 successful tech deployments, pushing innovation & collaboration
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,bootstrap,threejs&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=unity,blender,tensorflow,pytorch,opencv,prisma,graphql,redis&theme=dark" />
 
-**🧠 Code Ignite – MAIT**  
-*Co-Founder*  
-- Built a 350+ member coding community  
-- Organized 30-Day Microsoft Coding Challenge at MS Office, Noida
+### **TOOLS & PLATFORMS**
+*The forge where ideas become reality*
 
-**💡 Innovation & Incubation Cell, EDC – MAIT**  
-*Head of Creative Department*  
-- Mentored 30+ students on real-world dev and strategic planning  
-- Oversaw creative design & planning for tech initiatives
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,firebase,mongodb&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,linux,arduino,raspberrypi,postman,notion&theme=dark" />
+
+</div>
 
 ---
 
-### 🚀 Highlight Projects
+## 🏆 **BATTLE SCARS & VICTORIES**
 
-| Project | Description |
-|--------|-------------|
-| 🎓 **EduNEX XR** | Metaverse for immersive education using XR, AI, multiplayer systems |
-| 🛍️ **GlimmrXR** | AR Virtual Try-ons for retail & e-commerce experience |
-| 🌐 **MAITAVERSE** | XR campus for virtual hackathons, events, and collaboration |
-| 🌊 **MHD Thruster** | Silent marine propulsion to protect aquatic life using clean tech |
-| 🤖 **SereneHub AI** | Mood-aware AI companion using OpenCV, MetaHuman, Spotify API |
-| 🌾 **AgriBot** | Smart farming assistant with weather, pest prediction, and NLP |
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Codingpanda252&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
-### 📊 **GitHub Stats & Contributions**
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/222/222863.gif" alt="Cool GIF" />
-</p>
+</div>
 
+### **🎯 HACKATHON DOMINATION** 
+```
+🥇 12x Hackathon Winner
+🚀 Projects that actually ship
+💡 Ideas that solve real problems
+🏆 Recognition from industry leaders
+```
 
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codingpanda252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codingpanda252&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Codingpanda252&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+</div>
 
 ---
 
+## 📊 **GITHUB BATTLEFIELD**
 
-<p align="center"><b>Let's connect and build something impactful!</b></p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codingpanda252&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Codingpanda252&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF" />
+</div>
+
+---
+
+## 🎮 **CURRENT PROJECTS**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🛒 **AR Commerce Platform**
+*Revolutionary shopping experience*
+- **Real-time** 3D product visualization
+- **AI-powered** size recommendations  
+- **Cross-platform** WebXR compatibility
+- **Blockchain-based** authenticity verification
+
+</td>
+<td width="50%">
+
+### 🚀 **MHD Genesis**
+*Next-gen propulsion system*
+- **Magnetohydrodynamic** thruster design
+- **IoT monitoring** and control systems
+- **ML-optimized** efficiency algorithms
+- **Clean energy** integration
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌟 **THE PHILOSOPHY**
+
+<div align="center">
+
+*"Every great innovation starts with a simple question: **What if?***
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+**What if** shopping could be as immersive as gaming?  
+**What if** space travel could be clean and efficient?  
+**What if** the metaverse could solve real-world problems?  
+**What if** AI could amplify human creativity instead of replacing it?
+
+*These aren't just questions — they're my roadmap to the future.*
+
+</div>
+
+---
+
+## 📈 **IMPACT METRICS**
+
+<div align="center">
+
+```javascript
+const impact = {
+    hackathonsWon: 12,
+    projectsShipped: 25+,
+    linesOfCode: 100000+,
+    coffeeCupsConsumed: Infinity,
+    problemsSolved: "Growing daily",
+    futureBuilt: "One commit at a time"
+};
+```
+
+</div>
+
+---
+
+## 🤝 **LET'S BUILD THE FUTURE**
+
+<div align="center">
+
+### *Ready to turn your wildest tech dreams into reality?*
+
+Whether you're looking to revolutionize an industry, solve a complex problem, or just want to chat about the latest in XR/Web3/AI — I'm always excited to connect with fellow innovators and dreamers.
+
+<br/>
+
+[![Let's Connect](https://img.shields.io/badge/🚀_LET'S_COLLABORATE-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=2D3748)](mailto:subhasishpanda25@gmail.com)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+### *"The best way to predict the future is to build it."*
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Codingpanda252&color=blueviolet&style=for-the-badge&label=CURIOUS+MINDS+VISITED)
+
+**⭐ If this README inspired you, star it and let's build something amazing together! ⭐**
+
+</div>
