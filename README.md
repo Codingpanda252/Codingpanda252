@@ -32,52 +32,70 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 
 ## 🔥 **CURRENT OBSESSIONS**
 
+<div align="center">
+<img src="https://i.pinimg.com/originals/8b/c6/47/8bc647e0e265dc4b6d637c41b4ca98db.gif" width="600" alt="Bleach Ichigo Power"/>
+</div>
+
+<br/>
+
+> *"Just like Ichigo unleashing his Bankai, I'm constantly pushing the boundaries of what's possible in tech."*
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
 ### 🕶️ **EXTENDED REALITY**
-*Redefining how humans interact with digital worlds*
-- **AR Try-On Systems** for e-commerce
-- **VR Training Simulations** for enterprises  
-- **Mixed Reality** collaboration tools
-- **WebXR** experiences that run everywhere
+*Bridging digital and physical realms*
+
+🎯 **Immersive Commerce** → AR try-ons that feel real  
+🎮 **Enterprise VR** → Training simulations that save lives  
+🌐 **WebXR Ecosystems** → Cross-platform experiences  
+✨ **Spatial Computing** → The future of human-computer interaction  
 
 </td>
 <td align="center" width="50%">
 
 ### 🌐 **WEB3 & METAVERSE**
-*Building the decentralized internet of tomorrow*
-- **Smart Contract** architecture
-- **NFT Marketplaces** with utility
-- **DeFi Protocols** for real-world assets
-- **Metaverse Infrastructure** development
+*Architecting the decentralized future*
+
+⛓️ **Smart Contract Mastery** → Self-executing digital agreements  
+🏛️ **DeFi Infrastructure** → Banking without banks  
+🎨 **Utility-First NFTs** → Digital assets with real purpose  
+🌍 **Metaverse Economics** → Virtual worlds, real value  
 
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 
-### 🤖 **AI/ML INNOVATION**
-*Teaching machines to think and create*
-- **Computer Vision** for AR applications
-- **NLP Models** for conversational AI
-- **Generative AI** for content creation
-- **Edge AI** deployment optimization
+### 🤖 **AI/ML WIZARDRY**
+*Making machines think like humans*
+
+👁️ **Computer Vision** → Teaching machines to see  
+🧠 **Neural Networks** → Patterns within patterns  
+🎨 **Generative AI** → Creating the impossible  
+⚡ **Edge Deployment** → AI everywhere, instantly  
 
 </td>
 <td align="center" width="50%">
 
-### 🚀 **CLEAN TECH**
-*Engineering solutions for a sustainable future*
-- **MHD Thruster** propulsion systems
-- **IoT-based** environmental monitoring
-- **Energy-efficient** computing solutions
-- **Green blockchain** implementations
+### 🚀 **NEXT-GEN PROPULSION**
+*Engineering tomorrow's space travel*
+
+🔥 **MHD Technology** → Plasma-powered spacecraft  
+📡 **IoT Integration** → Smart monitoring systems  
+🔬 **Quantum Optimization** → Maximum efficiency algorithms  
+🌱 **Clean Energy Fusion** → Sustainable space exploration  
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### *"Every line of code is a step toward reshaping reality itself."*
+
+</div>
 
 ---
 
@@ -139,37 +157,6 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Codingpanda252&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF" />
-</div>
-
----
-
-## 🎮 **CURRENT PROJECTS**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 **AR Commerce Platform**
-*Revolutionary shopping experience*
-- **Real-time** 3D product visualization
-- **AI-powered** size recommendations  
-- **Cross-platform** WebXR compatibility
-- **Blockchain-based** authenticity verification
-
-</td>
-<td width="50%">
-
-### 🚀 **MHD Genesis**
-*Next-gen propulsion system*
-- **Magnetohydrodynamic** thruster design
-- **IoT monitoring** and control systems
-- **ML-optimized** efficiency algorithms
-- **Clean energy** integration
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
