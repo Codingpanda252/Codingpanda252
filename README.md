@@ -33,7 +33,7 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 ## 🔥 **CURRENT OBSESSIONS**
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/8b/c6/47/8bc647e0e265dc4b6d637c41b4ca98db.gif" width="600" alt="Bleach Ichigo Power"/>
+<img src="https://media.tenor.com/9kJIkjjDUOoAAAAM/ichigo-kurosaki-bleach.gif" width="600" alt="Bleach Ichigo Bankai Power"/>
 </div>
 
 <br/>
