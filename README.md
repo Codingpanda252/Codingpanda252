@@ -19,17 +19,17 @@
 ---
 
 ### 💡 About Me
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/221/221968.gif" alt="Cool GIF" />
+</p>
+
+
 
 🎯 A passionate **CS undergrad at MAIT, Delhi**, constantly building real-world impact with innovation in  
 🔸 **XR, Metaverse, AI/ML, Web3, and Full-Stack Development**  
 🛠️ From redefining shopping with **AR/VR try-ons** to pushing clean tech with **MHD thrusters** — I build what excites me.
 
 ---
-
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/221/221968.gif" alt="Cool GIF" />
-</p>
-
 
 
 ### 🧠 **Tech Stack & Tools**
