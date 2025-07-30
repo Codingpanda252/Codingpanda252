@@ -35,7 +35,7 @@ I'm not just a developer — I'm a **digital architect** shaping the future of h
 
 ## 🏆 Achievements
 
-🌏 **International Contributor** – [WCRP Global Hackathon](https://dpo.aori.u-tokyo.ac.jp/dmmg/ICCP-GSRA/Global-Hackathon_Tokyo.htm) 🇯🇵 Tokyo, Japan  
+🌏 **International Contributor** – [WCRP Global Hackathon](https://drive.google.com/file/d/1WacRd7bAzvRvAILMy4IDGY4HoLTI7wHw/view?usp=sharing) 🇯🇵 Tokyo, Japan  
 Contributed to global climate-tech innovation with top researchers and developers around the world.
 
 ---
