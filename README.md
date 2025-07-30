@@ -175,6 +175,12 @@
 ---
 
 ### 📊 **GitHub Stats & Contributions**
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/222/222863.gif" alt="Cool GIF" />
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codingpanda252&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
