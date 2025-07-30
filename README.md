@@ -150,6 +150,10 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 ---
 
 ## 📊 **GITHUB BATTLEFIELD**
+<div align="center">
+<img src="https://giffiles.alphacoders.com/222/222102.gif" width="600" alt="Bleach Ichigo Bankai Power"/>
+</div>
+
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Codingpanda252&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
