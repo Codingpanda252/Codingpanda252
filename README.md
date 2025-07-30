@@ -22,7 +22,10 @@
 
 > *"Building tomorrow's digital experiences today — one line of code at a time."*
 
-I'm not just a developer; I'm a **digital architect** crafting the future of human-computer interaction. From **AR/VR shopping experiences** that blur the line between digital and physical, to **clean tech innovations** like MHD thrusters that could revolutionize space travel — I turn impossible ideas into working reality.
+
+I'm not just a developer — I'm a **digital architect** shaping the future of human-computer interaction. Whether it's redefining immersive experiences or engineering breakthrough solutions, I specialize in turning bold ideas into transformative realities that push the boundaries of what's possible.
+
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -170,16 +173,16 @@ I'm not just a developer; I'm a **digital architect** crafting the future of hum
 
 <div align="center">
 
-*"Every great innovation starts with a simple question: **What if?***
+*Every groundbreaking innovation begins with a single question: **What if?***
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 
-**What if** shopping could be as immersive as gaming?  
-**What if** space travel could be clean and efficient?  
-**What if** the metaverse could solve real-world problems?  
-**What if** AI could amplify human creativity instead of replacing it?
+**What if** shopping felt as immersive as your favorite game?  
+**What if** space travel was clean, silent, and sustainable?  
+**What if** the metaverse could create real-world impact?  
+**What if** AI became a co-creator, not a replacement?
 
-*These aren't just questions — they're my roadmap to the future.*
+*To me, these aren’t just questions — they’re blueprints for the future I’m building.*
 
 </div>
 
@@ -210,7 +213,8 @@ const impact = {
 
 ### *Ready to turn your wildest tech dreams into reality?*
 
-Whether you're looking to revolutionize an industry, solve a complex problem, or just want to chat about the latest in XR/Web3/AI — I'm always excited to connect with fellow innovators and dreamers.
+Whether you're aiming to disrupt an industry, tackle complex challenges, or simply exchange ideas on the future of XR, Web3, or AI — I'm always eager to connect with fellow builders, visionaries, and curious minds.
+
 
 <br/>
 
