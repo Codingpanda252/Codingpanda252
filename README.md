@@ -9,7 +9,6 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2D3748)](https://subhasishpanda.site)
 [![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D3748)](https://linkedin.com/in/subhasishpanda25)
-[![GitHub](https://img.shields.io/badge/⚡_GITHUB-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=2D3748)](https://github.com/Codingpanda252)
 [![Email](https://img.shields.io/badge/📧_CONTACT-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D3748)](mailto:subhasishpanda25@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CSE%20@%20MAIT%20🇮🇳&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
