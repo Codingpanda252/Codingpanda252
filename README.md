@@ -3,7 +3,7 @@
 #  🚀 SUBHASISH PANDA 🐼
 ### *Where Innovation Meets Reality*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=12x+Hackathon+Winner+%F0%9F%8F%86;XR+%26+Web3+Pioneer+%F0%9F%8C%90;Full-Stack+Architect+%E2%9A%A1;AI%2FML+Innovator+%F0%9F%A4%96;Building+the+Metaverse+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=12x+Hackathon+Winner+%F0%9F%8F%86;WCRP+%26+Tokyo+🇯🇵+%F0%9F%8C%90;Full-Stack+Architect+%E2%9A%A1;AI%2FML+Innovator+%F0%9F%A4%96;Building+the+Metaverse+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
